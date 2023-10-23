@@ -2,6 +2,8 @@
 
 > Basado en la prueba en el repositorio de [brandovidal](https://gist.github.com/brandovidal/153d30bb6f639ad26e1796bb010af8c8) y [midudev](https://www.youtube.com/watch?v=JW_x-Tq5Vt0&ab_channel=midulive)
 
+> [Ver online](https://diegokaiser.github.io/pt-add-items/)
+
 > Te damos la bienvenida a la primera prueba técnica del proceso de selección como Senior Software Typescript Developer con React y Nodejs. La prueba consiste en lo siguiente:
 
 ### Ejercicio 1. Añadir y eliminar elementos de una lista (React)
